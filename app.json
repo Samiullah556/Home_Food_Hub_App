@@ -1,0 +1,8 @@
+{
+  "name": "Home_Food_mblApp",
+  "displayName": "Home_Food_mblApp",
+  // "SERVER_URL": "http://192.168.3.85:3001"
+  // "SERVER_URL": "http://localhost:3001"
+  // "SERVER_URL": "https://food-native-app.herokuapp.com"
+  "SERVER_URL": "https://homefoodhub-server.herokuapp.com"
+}
